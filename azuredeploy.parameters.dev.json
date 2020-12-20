@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storagePrefix": {
-      "value": "devstore"
+      "value": "devstores"
     },
     "storageSKU": {
       "value": "Standard_LRS"
     },
     "appServicePlanName": {
-      "value": "devplan"
+      "value": "devplans"
     },
     "webAppName": {
-      "value": "devapp"
+      "value": "devapps"
     },
     "resourceTags": {
       "value": {
